@@ -8,4 +8,6 @@ Spring Boot
   JPA
  Using H2 and MySQL
  
+ Accessing JPA Data with REST
+ 
  ----------------------------------------------------
